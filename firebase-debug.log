@@ -1,0 +1,66 @@
+[debug] [2022-05-13T08:46:44.210Z] ----------------------------------------------------------------------
+[debug] [2022-05-13T08:46:44.212Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-05-13T08:46:44.212Z] CLI Version:   10.9.2
+[debug] [2022-05-13T08:46:44.212Z] Platform:      win32
+[debug] [2022-05-13T08:46:44.212Z] Node Version:  v16.14.2
+[debug] [2022-05-13T08:46:44.213Z] Time:          Fri May 13 2022 05:46:44 GMT-0300 (hora estándar de Argentina)
+[debug] [2022-05-13T08:46:44.213Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-05-13T08:46:44.215Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2022-05-13T08:46:44.232Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-05-13T08:46:44.232Z] > authorizing via signed-in user (santamaria.luc76@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\proyectos\e-commers-boostrap
+
+[debug] [2022-05-13T08:46:44.853Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2022-05-13T08:46:44.854Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2022-05-13T08:55:08.238Z] ----------------------------------------------------------------------
+[debug] [2022-05-13T08:55:08.240Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-05-13T08:55:08.240Z] CLI Version:   10.9.2
+[debug] [2022-05-13T08:55:08.241Z] Platform:      win32
+[debug] [2022-05-13T08:55:08.241Z] Node Version:  v16.14.2
+[debug] [2022-05-13T08:55:08.241Z] Time:          Fri May 13 2022 05:55:08 GMT-0300 (hora estándar de Argentina)
+[debug] [2022-05-13T08:55:08.242Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-05-13T08:55:08.247Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-05-13T08:55:08.247Z] > authorizing via signed-in user (santamaria.luc76@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\proyectos\e-commers-boostrap
+
+[debug] [2022-05-13T08:55:33.031Z] ----------------------------------------------------------------------
+[debug] [2022-05-13T08:55:33.033Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-05-13T08:55:33.033Z] CLI Version:   10.9.2
+[debug] [2022-05-13T08:55:33.033Z] Platform:      win32
+[debug] [2022-05-13T08:55:33.033Z] Node Version:  v16.14.2
+[debug] [2022-05-13T08:55:33.034Z] Time:          Fri May 13 2022 05:55:33 GMT-0300 (hora estándar de Argentina)
+[debug] [2022-05-13T08:55:33.034Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-05-13T08:55:33.040Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-05-13T08:55:33.040Z] > authorizing via signed-in user (santamaria.luc76@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\proyectos\e-commers-boostrap
+
